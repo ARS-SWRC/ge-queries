@@ -3,6 +3,8 @@
 # Purpose: This script will query for data from Google Earth Engine from a
 #          list of locations using lat and long values. 
 #
+# TEST
+#
 # Author: Gerardo Armendariz
 #
 # Modified: 3-1-2016
